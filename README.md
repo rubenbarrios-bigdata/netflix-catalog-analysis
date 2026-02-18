@@ -27,5 +27,6 @@ Análisis de Duración: Mediante el uso de Boxplots, descubrimos que los Documen
 Globalización: El análisis muestra una expansión agresiva en mercados internacionales, aunque con una fuerte concentración de datos desconocidos en la producción original.
 
 Fuente: Kaggle – Netflix Movies and TV Shows
+
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
