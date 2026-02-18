@@ -1,4 +1,4 @@
-## 🎬 Netflix Data Explorer: Análisis Estratégico de Contenido
+# 🎬 Netflix Data Explorer: Análisis Estratégico de Contenido
 
 ## 📝 Descripción
 Este proyecto se basa en un Análisis Exploratorio de Datos (EDA) sobre el catálogo de Netflix (2008-2021), el objetivo es identificar patrones en la estrategia de la plataforma, analizando la distribución geográfica, las clasificaciones de audiencia y las tendencias en la duración de los contenidos.
