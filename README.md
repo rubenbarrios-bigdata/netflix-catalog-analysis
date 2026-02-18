@@ -25,3 +25,6 @@ Transformación de Tipos: Se convirtió la columna duration de texto a tipo num�
 Análisis de Duración: Mediante el uso de Boxplots, descubrimos que los Documentales 📹 mantienen una duración estándar, mientras que los Dramas 🎭 presentan una alta variabilidad.
 
 Globalización: El análisis muestra una expansión agresiva en mercados internacionales, aunque con una fuerte concentración de datos desconocidos en la producción original.
+
+Fuente: Kaggle – Netflix Movies and TV Shows
+
