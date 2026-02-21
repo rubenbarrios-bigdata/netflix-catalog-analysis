@@ -30,3 +30,6 @@ Fuente: Kaggle – Netflix Movies and TV Shows
 
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+👨‍💻 Autor
+Rubén Barrios
+
