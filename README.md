@@ -30,6 +30,10 @@ Fuente: Kaggle – Netflix Movies and TV Shows
 
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
-👨‍💻 Autor
-Rubén Barrios
+---
 
+## 👨‍💻 Autor
+
+Rubén Barrios  
+
+Proyecto realizado como práctica de análisis de datos con Python, orientado al desarrollo profesional en el área de Data Analytics.
